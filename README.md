@@ -53,7 +53,7 @@ Conversely, the findings indicated that the Pyber rides application was used les
 
 It is recommended that additional data be analyzed:
 - Demographic information baseline for cities with Pyber ride availability.
-- Demographic information specfic to Pyber users.
+- Demographic information specfic to Pyber users for comparison.
 - Potential impact of climate, weather and catastrophic conditions.
 
 
