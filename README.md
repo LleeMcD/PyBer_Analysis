@@ -18,7 +18,7 @@ The following visualizations were then created from this data:
 ![Fig6Total_Rides_by_City_Type](https://github.com/LleeMcD/PyBer_Analysis/blob/main/analysis/Fig6.png)
 ![Fig7Percentage_Total_Drivers_by_City_Type](https://github.com/LleeMcD/PyBer_Analysis/blob/main/analysis/Fig7.png)
 ![Fig8-Pyber_Challenge](https://github.com/LleeMcD/PyBer_Analysis/blob/main/analysis/Fig8_PyBer_Challenge.png)
-The findings indicated the following:
+The resluts of the analysis demonstrated the following:
 - Urban cities had the highest percentage of Pyber rides at 68.4%.
 - The percentage of total rides for suburban cities at 26.3%, was less than half that of the Urban cities.
 - The rural cities had the lowest percentage of total rides at just 5.3%.
@@ -37,3 +37,26 @@ The findings indicated the following:
   - Suburban cities had 16.5% of the total number of Pyber drivers.
   - Rural cities had 2.6% of the total number of Pyber drivers.
 ## Summary
+The findings indicated that the Pyber rides application was used more frequently in urban cities. 
+Influencing factors could include:
+- Limited access to public transportation or issues with route schedules, reliablility and / or safety concerns. 
+- Lower number of leased or owned vehicles for personal use as compared to suburban and rural cities.
+- Large population of Pyber drivers available.
+- Cultural influences
+- Economics
+
+Conversely, the findings indicated that the Pyber rides application was used less frequently in suburban and rural settings. Some of the influencing factors could be as follows:
+- Higher prevalence of leased or owned vehicles for personal use.
+- Limited Pyber driver availability.
+- Cultural influences
+- Economics
+
+It is recommended that additional data be analyzed:
+- Demographic information baseline for cities with Pyber ride availability.
+- Demographic information specfic to Pyber users.
+- Potential impact of climate, weather and catastrophic conditions.
+
+
+
+
+
