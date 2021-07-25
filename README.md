@@ -10,4 +10,4 @@ The data, which was stored in large comma separated values (csv) files, was impo
 - Average fare per driver for each city type
 
 A multiline plot showing the total weekly fares for each city type was then created.
-![]()
+![Fig8-Pyber_Challenge](https://github.com/LleeMcD/PyBer_Analysis/blob/main/analysis/Fig8_PyBer_Challenge.png)
