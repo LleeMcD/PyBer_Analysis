@@ -13,7 +13,7 @@ The following visualizations were then created from this data:
 ![Fig1Total_Number_of_Rides_per_City](https://github.com/LleeMcD/PyBer_Analysis/blob/main/analysis/Fig1.png)
 ![Fig2Driver_Count_by_City_Type](https://github.com/LleeMcD/PyBer_Analysis/blob/main/analysis/Fig2.png)
 
-![Fig5Total_Fares_by_City_Type](https://github.com/LleeMcD/PyBer_Analysis/blob/main/analysis/Fig5.png)
+![Fig5Total_Fares_by_City_Type]()
 ![Fig6Total_Rides_by_City_Type](https://github.com/LleeMcD/PyBer_Analysis/blob/main/analysis/Fig6.png)
 ![Fig7Percentage_Total_Drivers_by_City_Type](https://github.com/LleeMcD/PyBer_Analysis/blob/main/analysis/Fig7.png)
 ![Fig8-Pyber_Challenge](https://github.com/LleeMcD/PyBer_Analysis/blob/main/analysis/Fig8_PyBer_Challenge.png)
