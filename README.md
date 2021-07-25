@@ -19,9 +19,9 @@ The following visualizations were then created from this data:
 ![Fig7Percentage_Total_Drivers_by_City_Type](https://github.com/LleeMcD/PyBer_Analysis/blob/main/analysis/Fig7.png)
 ![Fig8-Pyber_Challenge](https://github.com/LleeMcD/PyBer_Analysis/blob/main/analysis/Fig8_PyBer_Challenge.png)
 The findings indicated the following:
-- Urban cities had the highest perctage of Pyber rides at 68.4%
-- The percentage of total rides for suburban cities at 26.3%, was less than half that of the Urban cities
-- The rural cities had the lowest percentage of total rides at just 5.3%
+- Urban cities had the highest percentage of Pyber rides at 68.4%.
+- The percentage of total rides for suburban cities at 26.3%, was less than half that of the Urban cities.
+- The rural cities had the lowest percentage of total rides at just 5.3%.
 - Pyber ride usage and fares:
   - Urban
     - Highest usage and fares: March and April
